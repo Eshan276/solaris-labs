@@ -1,0 +1,18 @@
+{
+  "cluster": "devnet",
+  "programId": "CT5Mi74a94AF6W4H2dfUnSC5F8P2gxK3J5jrCNGFMcZa",
+  "usdcMint": "GMuezHigniE8itiiMEZBhKi91p6eGxESTmmP5zMM7ZF3",
+  "operator": "6CUiKohiaJHPQq9KH5itYUKp7WdbUz4UWBWVChJfkWS7",
+  "projects": [
+    {
+      "id": 0,
+      "address": "9EnmUpKTxqJuGudhamyQBW5ULpaugiyhMsAyqQqSAaVK",
+      "meter": "G5LbG22PUw77yWM6WH3hsfw4x7DdSDSCyXRZv5DYkzEK"
+    },
+    {
+      "id": 3,
+      "address": "711v76fB9mCnDNaP4C6LYGHvfA4jaqManVhTUDBNkJVE",
+      "meter": "B4JTVmGjU9BNf6zphbzkf6Ek66C5wSgAB5Xo41b5xTK2"
+    }
+  ]
+}

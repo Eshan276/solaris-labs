@@ -1,0 +1,16 @@
+{
+  "name": "solaris-operator",
+  "private": true,
+  "type": "module",
+  "scripts": {
+    "setup": "bun run scripts/setup.ts",
+    "start": "bun run src/server.ts",
+    "test": "bun test"
+  },
+  "dependencies": {
+    "@anchor-lang/core": "1.2.0",
+    "@noble/curves": "^2.4.0",
+    "@noble/hashes": "^2.4.0",
+    "@solana/spl-token": "0.4"
+  }
+}

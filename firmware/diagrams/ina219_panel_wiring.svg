@@ -1,0 +1,111 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="860" height="1000" viewBox="0 0 860 1000" font-family="DejaVu Sans, sans-serif">
+<rect width="860" height="1000" fill="#fff"/>
+<text x="430" y="42" font-size="28" font-weight="bold" text-anchor="middle">Wiring at the INA219 (seen from above)</text>
+<text x="430" y="74" font-size="17" text-anchor="middle" fill="#555">The 5 holes in one numbered column (a–e) are connected to each other</text>
+<rect x="130" y="205" width="548" height="290" rx="10" fill="#f4f1ea" stroke="#bbb"/>
+<rect x="130" y="495" width="548" height="26" fill="#e2ddd2"/>
+<rect x="294" y="226" width="48" height="246" rx="9" fill="#c9efc9"/>
+<rect x="486" y="226" width="48" height="246" rx="9" fill="#fde2b8"/>
+<rect x="550" y="226" width="48" height="246" rx="9" fill="#fbcfcf"/>
+<text x="152" y="256" font-size="16" fill="#888" text-anchor="middle">a</text>
+<text x="152" y="306" font-size="16" fill="#888" text-anchor="middle">b</text>
+<text x="152" y="356" font-size="16" fill="#888" text-anchor="middle">c</text>
+<text x="152" y="406" font-size="16" fill="#888" text-anchor="middle">d</text>
+<text x="152" y="456" font-size="16" fill="#888" text-anchor="middle">e</text>
+<text x="190" y="224" font-size="14" fill="#888" text-anchor="middle">9</text>
+<rect x="184" y="244" width="12" height="12" rx="2" fill="#555"/>
+<rect x="184" y="294" width="12" height="12" rx="2" fill="#555"/>
+<rect x="184" y="344" width="12" height="12" rx="2" fill="#555"/>
+<rect x="184" y="394" width="12" height="12" rx="2" fill="#555"/>
+<rect x="184" y="444" width="12" height="12" rx="2" fill="#555"/>
+<text x="254" y="224" font-size="14" fill="#888" text-anchor="middle">10</text>
+<rect x="248" y="244" width="12" height="12" rx="2" fill="#555"/>
+<rect x="248" y="294" width="12" height="12" rx="2" fill="#555"/>
+<rect x="248" y="344" width="12" height="12" rx="2" fill="#555"/>
+<rect x="248" y="394" width="12" height="12" rx="2" fill="#555"/>
+<rect x="248" y="444" width="12" height="12" rx="2" fill="#555"/>
+<text x="318" y="224" font-size="14" fill="#888" text-anchor="middle">11</text>
+<rect x="312" y="244" width="12" height="12" rx="2" fill="#555"/>
+<rect x="312" y="294" width="12" height="12" rx="2" fill="#555"/>
+<rect x="312" y="344" width="12" height="12" rx="2" fill="#555"/>
+<rect x="312" y="394" width="12" height="12" rx="2" fill="#555"/>
+<rect x="312" y="444" width="12" height="12" rx="2" fill="#555"/>
+<text x="382" y="224" font-size="14" fill="#888" text-anchor="middle">12</text>
+<rect x="376" y="244" width="12" height="12" rx="2" fill="#555"/>
+<rect x="376" y="294" width="12" height="12" rx="2" fill="#555"/>
+<rect x="376" y="344" width="12" height="12" rx="2" fill="#555"/>
+<rect x="376" y="394" width="12" height="12" rx="2" fill="#555"/>
+<rect x="376" y="444" width="12" height="12" rx="2" fill="#555"/>
+<text x="446" y="224" font-size="14" fill="#888" text-anchor="middle">13</text>
+<rect x="440" y="244" width="12" height="12" rx="2" fill="#555"/>
+<rect x="440" y="294" width="12" height="12" rx="2" fill="#555"/>
+<rect x="440" y="344" width="12" height="12" rx="2" fill="#555"/>
+<rect x="440" y="394" width="12" height="12" rx="2" fill="#555"/>
+<rect x="440" y="444" width="12" height="12" rx="2" fill="#555"/>
+<text x="510" y="224" font-size="14" fill="#888" text-anchor="middle">14</text>
+<rect x="504" y="244" width="12" height="12" rx="2" fill="#555"/>
+<rect x="504" y="294" width="12" height="12" rx="2" fill="#555"/>
+<rect x="504" y="344" width="12" height="12" rx="2" fill="#555"/>
+<rect x="504" y="394" width="12" height="12" rx="2" fill="#555"/>
+<rect x="504" y="444" width="12" height="12" rx="2" fill="#555"/>
+<text x="574" y="224" font-size="14" fill="#888" text-anchor="middle">15</text>
+<rect x="568" y="244" width="12" height="12" rx="2" fill="#555"/>
+<rect x="568" y="294" width="12" height="12" rx="2" fill="#555"/>
+<rect x="568" y="344" width="12" height="12" rx="2" fill="#555"/>
+<rect x="568" y="394" width="12" height="12" rx="2" fill="#555"/>
+<rect x="568" y="444" width="12" height="12" rx="2" fill="#555"/>
+<text x="638" y="224" font-size="14" fill="#888" text-anchor="middle">16</text>
+<rect x="632" y="244" width="12" height="12" rx="2" fill="#555"/>
+<rect x="632" y="294" width="12" height="12" rx="2" fill="#555"/>
+<rect x="632" y="344" width="12" height="12" rx="2" fill="#555"/>
+<rect x="632" y="394" width="12" height="12" rx="2" fill="#555"/>
+<rect x="632" y="444" width="12" height="12" rx="2" fill="#555"/>
+<rect x="212" y="432" width="404" height="160" rx="8" fill="#1f5fbf"/>
+<text x="414.0" y="570" font-size="20" fill="#fff" text-anchor="middle" font-weight="bold">INA219</text>
+<circle cx="254" cy="450" r="10" fill="#ddd" stroke="#999" stroke-width="2"/>
+<text x="254" y="490" font-size="16" fill="#fff" text-anchor="middle" font-weight="bold">Vcc</text>
+<circle cx="318" cy="450" r="10" fill="#ddd" stroke="#999" stroke-width="2"/>
+<text x="318" y="490" font-size="16" fill="#fff" text-anchor="middle" font-weight="bold">Gnd</text>
+<circle cx="382" cy="450" r="10" fill="#ddd" stroke="#999" stroke-width="2"/>
+<text x="382" y="490" font-size="16" fill="#fff" text-anchor="middle" font-weight="bold">Scl</text>
+<circle cx="446" cy="450" r="10" fill="#ddd" stroke="#999" stroke-width="2"/>
+<text x="446" y="490" font-size="16" fill="#fff" text-anchor="middle" font-weight="bold">Sda</text>
+<circle cx="510" cy="450" r="10" fill="#ddd" stroke="#999" stroke-width="2"/>
+<text x="510" y="490" font-size="16" fill="#fff" text-anchor="middle" font-weight="bold">Vin−</text>
+<circle cx="574" cy="450" r="10" fill="#ddd" stroke="#999" stroke-width="2"/>
+<text x="574" y="490" font-size="16" fill="#fff" text-anchor="middle" font-weight="bold">Vin+</text>
+<path d="M254 400 C 254 170, 150 170, 20 150" stroke="#c0392b" stroke-width="6" fill="none" opacity="0.3"/>
+<circle cx="254" cy="400" r="8" fill="#c0392b" opacity="0.6"/>
+<path d="M318 400 C 318 160, 150 160, 20 164" stroke="#222" stroke-width="6" fill="none" opacity="0.3"/>
+<circle cx="318" cy="400" r="8" fill="#222" opacity="0.6"/>
+<path d="M382 400 C 382 150, 150 150, 20 178" stroke="#999" stroke-width="6" fill="none" opacity="0.3"/>
+<circle cx="382" cy="400" r="8" fill="#999" opacity="0.6"/>
+<path d="M446 400 C 446 140, 150 140, 20 192" stroke="#999" stroke-width="6" fill="none" opacity="0.3"/>
+<circle cx="446" cy="400" r="8" fill="#999" opacity="0.6"/>
+<text x="20" y="128" font-size="15" fill="#777">your 4 jumpers to the ESP32 (already done)</text>
+<path d="M318 300 L318 180 L510 180 L510 300" stroke="#8a8a8a" stroke-width="4" fill="none"/>
+<rect x="370.0" y="166" width="88" height="28" rx="13" fill="#5fc4c4" stroke="#2b8a8a" stroke-width="2"/>
+<rect x="382.0" y="166" width="7" height="28" fill="#e67e22"/>
+<rect x="396.0" y="166" width="7" height="28" fill="#e67e22"/>
+<rect x="410.0" y="166" width="7" height="28" fill="#111"/>
+<rect x="424.0" y="166" width="7" height="28" fill="#111"/>
+<rect x="438.0" y="166" width="7" height="28" fill="#8b4513"/>
+<circle cx="318" cy="300" r="8" fill="#2b8a8a"/>
+<circle cx="510" cy="300" r="8" fill="#2b8a8a"/>
+<text x="414.0" y="156" font-size="17" text-anchor="middle" fill="#1d6b6b" font-weight="bold">330 Ω resistor</text>
+<circle cx="318" cy="250" r="9" fill="#7b4a23"/>
+<path d="M318 250 C 258 250, 70 300, 70 520 S 150 820, 290 850" stroke="#7b4a23" stroke-width="8" fill="none"/>
+<circle cx="574" cy="350" r="9" fill="#e02020"/>
+<path d="M574 350 C 694 350, 800 420, 800 600 S 700 830, 560 850" stroke="#e02020" stroke-width="8" fill="none"/>
+<rect x="270" y="830" width="320" height="120" rx="10" fill="#0f3d2b"/>
+<text x="310" y="878" font-size="26" fill="#fff" text-anchor="middle">⊖</text><text x="550" y="878" font-size="26" fill="#fff" text-anchor="middle">⊕</text>
+<text x="430" y="925" font-size="19" fill="#9fe0b8" text-anchor="middle" font-weight="bold">Solar panel (back)</text>
+<text x="110" y="800" font-size="16" fill="#7b4a23" font-weight="bold">brown (−)</text>
+<text x="660" y="800" font-size="16" fill="#e02020" font-weight="bold">red (+)</text>
+<rect x="130" y="632" width="24" height="24" rx="4" fill="#fbcfcf" stroke="#aaa"/>
+<text x="166" y="650" font-size="18">Column under Vin+ : RED panel wire</text>
+<rect x="130" y="670" width="24" height="24" rx="4" fill="#fde2b8" stroke="#aaa"/>
+<text x="166" y="688" font-size="18">Column under Vin− : resistor leg 1</text>
+<rect x="130" y="708" width="24" height="24" rx="4" fill="#c9efc9" stroke="#aaa"/>
+<text x="166" y="726" font-size="18">Column under Gnd : jumper (already) + resistor leg 2 + BROWN wire</text>
+</svg>

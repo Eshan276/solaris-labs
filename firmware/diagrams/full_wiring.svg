@@ -1,0 +1,156 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="1240" height="1180" viewBox="0 0 1240 1180" font-family="DejaVu Sans, sans-serif">
+<rect width="1240" height="1180" fill="#fff"/>
+<text x="620.0" y="44" font-size="30" font-weight="bold" text-anchor="middle">Solaris mini meter: full wiring</text>
+<text x="620.0" y="78" font-size="17" text-anchor="middle" fill="#555">The 5 holes in one numbered column (a–e) are connected to each other</text>
+<text x="155.0" y="136" font-size="24" font-weight="bold" text-anchor="middle">ESP32</text>
+<rect x="50" y="150" width="210" height="690" rx="12" fill="#222"/>
+<rect x="68" y="168" width="90" height="140" rx="6" fill="#b8b8b8"/>
+<rect x="127.0" y="834" width="56" height="26" rx="4" fill="#aaa"/>
+<text x="155.0" y="882" font-size="15" fill="#555" text-anchor="middle">USB → laptop</text>
+<circle cx="242" cy="176" r="8" fill="#666"/>
+<text x="226" y="182" font-size="16" fill="#999" text-anchor="end" font-weight="normal">D23</text>
+<circle cx="242" cy="220" r="8" fill="#ffd84d"/>
+<text x="226" y="226" font-size="16" fill="#fff" text-anchor="end" font-weight="bold">D22</text>
+<circle cx="242" cy="264" r="8" fill="#666"/>
+<text x="226" y="270" font-size="16" fill="#999" text-anchor="end" font-weight="normal">TX0</text>
+<circle cx="242" cy="308" r="8" fill="#666"/>
+<text x="226" y="314" font-size="16" fill="#999" text-anchor="end" font-weight="normal">RX0</text>
+<circle cx="242" cy="352" r="8" fill="#ffd84d"/>
+<text x="226" y="358" font-size="16" fill="#fff" text-anchor="end" font-weight="bold">D21</text>
+<circle cx="242" cy="396" r="8" fill="#666"/>
+<text x="226" y="402" font-size="16" fill="#999" text-anchor="end" font-weight="normal">D19</text>
+<circle cx="242" cy="440" r="8" fill="#666"/>
+<text x="226" y="446" font-size="16" fill="#999" text-anchor="end" font-weight="normal">D18</text>
+<circle cx="242" cy="484" r="8" fill="#666"/>
+<text x="226" y="490" font-size="16" fill="#999" text-anchor="end" font-weight="normal">D5</text>
+<circle cx="242" cy="528" r="8" fill="#666"/>
+<text x="226" y="534" font-size="16" fill="#999" text-anchor="end" font-weight="normal">TX2</text>
+<circle cx="242" cy="572" r="8" fill="#666"/>
+<text x="226" y="578" font-size="16" fill="#999" text-anchor="end" font-weight="normal">RX2</text>
+<circle cx="242" cy="616" r="8" fill="#666"/>
+<text x="226" y="622" font-size="16" fill="#999" text-anchor="end" font-weight="normal">D4</text>
+<circle cx="242" cy="660" r="8" fill="#666"/>
+<text x="226" y="666" font-size="16" fill="#999" text-anchor="end" font-weight="normal">D2</text>
+<circle cx="242" cy="704" r="8" fill="#666"/>
+<text x="226" y="710" font-size="16" fill="#999" text-anchor="end" font-weight="normal">D15</text>
+<circle cx="242" cy="748" r="8" fill="#ffd84d"/>
+<text x="226" y="754" font-size="16" fill="#fff" text-anchor="end" font-weight="bold">GND</text>
+<circle cx="242" cy="792" r="8" fill="#ffd84d"/>
+<text x="226" y="798" font-size="16" fill="#fff" text-anchor="end" font-weight="bold">3V3</text>
+<rect x="540" y="285" width="548" height="290" rx="10" fill="#f4f1ea" stroke="#bbb"/>
+<rect x="540" y="575" width="548" height="26" fill="#e2ddd2"/>
+<rect x="704" y="306" width="48" height="246" rx="9" fill="#c9efc9"/>
+<rect x="896" y="306" width="48" height="246" rx="9" fill="#fde2b8"/>
+<rect x="960" y="306" width="48" height="246" rx="9" fill="#fbcfcf"/>
+<text x="562" y="336" font-size="16" fill="#888" text-anchor="middle">a</text>
+<text x="562" y="386" font-size="16" fill="#888" text-anchor="middle">b</text>
+<text x="562" y="436" font-size="16" fill="#888" text-anchor="middle">c</text>
+<text x="562" y="486" font-size="16" fill="#888" text-anchor="middle">d</text>
+<text x="562" y="536" font-size="16" fill="#888" text-anchor="middle">e</text>
+<text x="600" y="304" font-size="14" fill="#888" text-anchor="middle">9</text>
+<rect x="594" y="324" width="12" height="12" rx="2" fill="#555"/>
+<rect x="594" y="374" width="12" height="12" rx="2" fill="#555"/>
+<rect x="594" y="424" width="12" height="12" rx="2" fill="#555"/>
+<rect x="594" y="474" width="12" height="12" rx="2" fill="#555"/>
+<rect x="594" y="524" width="12" height="12" rx="2" fill="#555"/>
+<text x="664" y="304" font-size="14" fill="#888" text-anchor="middle">10</text>
+<rect x="658" y="324" width="12" height="12" rx="2" fill="#555"/>
+<rect x="658" y="374" width="12" height="12" rx="2" fill="#555"/>
+<rect x="658" y="424" width="12" height="12" rx="2" fill="#555"/>
+<rect x="658" y="474" width="12" height="12" rx="2" fill="#555"/>
+<rect x="658" y="524" width="12" height="12" rx="2" fill="#555"/>
+<text x="728" y="304" font-size="14" fill="#888" text-anchor="middle">11</text>
+<rect x="722" y="324" width="12" height="12" rx="2" fill="#555"/>
+<rect x="722" y="374" width="12" height="12" rx="2" fill="#555"/>
+<rect x="722" y="424" width="12" height="12" rx="2" fill="#555"/>
+<rect x="722" y="474" width="12" height="12" rx="2" fill="#555"/>
+<rect x="722" y="524" width="12" height="12" rx="2" fill="#555"/>
+<text x="792" y="304" font-size="14" fill="#888" text-anchor="middle">12</text>
+<rect x="786" y="324" width="12" height="12" rx="2" fill="#555"/>
+<rect x="786" y="374" width="12" height="12" rx="2" fill="#555"/>
+<rect x="786" y="424" width="12" height="12" rx="2" fill="#555"/>
+<rect x="786" y="474" width="12" height="12" rx="2" fill="#555"/>
+<rect x="786" y="524" width="12" height="12" rx="2" fill="#555"/>
+<text x="856" y="304" font-size="14" fill="#888" text-anchor="middle">13</text>
+<rect x="850" y="324" width="12" height="12" rx="2" fill="#555"/>
+<rect x="850" y="374" width="12" height="12" rx="2" fill="#555"/>
+<rect x="850" y="424" width="12" height="12" rx="2" fill="#555"/>
+<rect x="850" y="474" width="12" height="12" rx="2" fill="#555"/>
+<rect x="850" y="524" width="12" height="12" rx="2" fill="#555"/>
+<text x="920" y="304" font-size="14" fill="#888" text-anchor="middle">14</text>
+<rect x="914" y="324" width="12" height="12" rx="2" fill="#555"/>
+<rect x="914" y="374" width="12" height="12" rx="2" fill="#555"/>
+<rect x="914" y="424" width="12" height="12" rx="2" fill="#555"/>
+<rect x="914" y="474" width="12" height="12" rx="2" fill="#555"/>
+<rect x="914" y="524" width="12" height="12" rx="2" fill="#555"/>
+<text x="984" y="304" font-size="14" fill="#888" text-anchor="middle">15</text>
+<rect x="978" y="324" width="12" height="12" rx="2" fill="#555"/>
+<rect x="978" y="374" width="12" height="12" rx="2" fill="#555"/>
+<rect x="978" y="424" width="12" height="12" rx="2" fill="#555"/>
+<rect x="978" y="474" width="12" height="12" rx="2" fill="#555"/>
+<rect x="978" y="524" width="12" height="12" rx="2" fill="#555"/>
+<text x="1048" y="304" font-size="14" fill="#888" text-anchor="middle">16</text>
+<rect x="1042" y="324" width="12" height="12" rx="2" fill="#555"/>
+<rect x="1042" y="374" width="12" height="12" rx="2" fill="#555"/>
+<rect x="1042" y="424" width="12" height="12" rx="2" fill="#555"/>
+<rect x="1042" y="474" width="12" height="12" rx="2" fill="#555"/>
+<rect x="1042" y="524" width="12" height="12" rx="2" fill="#555"/>
+<rect x="622" y="512" width="404" height="160" rx="8" fill="#1f5fbf"/>
+<text x="824.0" y="650" font-size="20" fill="#fff" text-anchor="middle" font-weight="bold">INA219</text>
+<circle cx="664" cy="530" r="10" fill="#ddd" stroke="#999" stroke-width="2"/>
+<text x="664" y="570" font-size="16" fill="#fff" text-anchor="middle" font-weight="bold">Vcc</text>
+<circle cx="728" cy="530" r="10" fill="#ddd" stroke="#999" stroke-width="2"/>
+<text x="728" y="570" font-size="16" fill="#fff" text-anchor="middle" font-weight="bold">Gnd</text>
+<circle cx="792" cy="530" r="10" fill="#ddd" stroke="#999" stroke-width="2"/>
+<text x="792" y="570" font-size="16" fill="#fff" text-anchor="middle" font-weight="bold">Scl</text>
+<circle cx="856" cy="530" r="10" fill="#ddd" stroke="#999" stroke-width="2"/>
+<text x="856" y="570" font-size="16" fill="#fff" text-anchor="middle" font-weight="bold">Sda</text>
+<circle cx="920" cy="530" r="10" fill="#ddd" stroke="#999" stroke-width="2"/>
+<text x="920" y="570" font-size="16" fill="#fff" text-anchor="middle" font-weight="bold">Vin−</text>
+<circle cx="984" cy="530" r="10" fill="#ddd" stroke="#999" stroke-width="2"/>
+<text x="984" y="570" font-size="16" fill="#fff" text-anchor="middle" font-weight="bold">Vin+</text>
+<path d="M728 380 L728 245 L920 245 L920 380" stroke="#8a8a8a" stroke-width="4" fill="none"/>
+<rect x="780.0" y="231" width="88" height="28" rx="13" fill="#5fc4c4" stroke="#2b8a8a" stroke-width="2"/>
+<rect x="792.0" y="231" width="7" height="28" fill="#e67e22"/>
+<rect x="806.0" y="231" width="7" height="28" fill="#e67e22"/>
+<rect x="820.0" y="231" width="7" height="28" fill="#111"/>
+<rect x="834.0" y="231" width="7" height="28" fill="#111"/>
+<rect x="848.0" y="231" width="7" height="28" fill="#8b4513"/>
+<circle cx="728" cy="380" r="8" fill="#2b8a8a"/>
+<circle cx="920" cy="380" r="8" fill="#2b8a8a"/>
+<text x="824.0" y="221" font-size="17" text-anchor="middle" fill="#1d6b6b" font-weight="bold">330 Ω resistor</text>
+<path d="M242 220 C 462 220, 792 280, 792 480" stroke="#e6a700" stroke-width="6" fill="none" opacity="0.9"/>
+<circle cx="792" cy="480" r="8" fill="#e6a700" stroke="#fff" stroke-width="2"/>
+<path d="M242 352 C 462 352, 856 280, 856 480" stroke="#1f6fd1" stroke-width="6" fill="none" opacity="0.9"/>
+<circle cx="856" cy="480" r="8" fill="#1f6fd1" stroke="#fff" stroke-width="2"/>
+<path d="M242 748 C 462 748, 728 280, 728 480" stroke="#111" stroke-width="6" fill="none" opacity="0.9"/>
+<circle cx="728" cy="480" r="8" fill="#111" stroke="#fff" stroke-width="2"/>
+<path d="M242 792 C 462 792, 664 280, 664 480" stroke="#d62828" stroke-width="6" fill="none" opacity="0.9"/>
+<circle cx="664" cy="480" r="8" fill="#d62828" stroke="#fff" stroke-width="2"/>
+<circle cx="984" cy="430" r="9" fill="#e02020"/>
+<path d="M984 430 L1016 455 L1080 455 L1080 900" stroke="#e02020" stroke-width="8" fill="none" stroke-linejoin="round"/>
+<circle cx="728" cy="330" r="9" fill="#7b4a23"/>
+<path d="M728 330 L698 330 L698 170 L1190 170 L1190 900" stroke="#7b4a23" stroke-width="8" fill="none" stroke-linejoin="round"/>
+<rect x="980" y="900" width="250" height="130" rx="10" fill="#0f3d2b"/>
+<text x="1080" y="944" font-size="28" fill="#fff" text-anchor="middle">⊕</text>
+<text x="1190" y="944" font-size="28" fill="#fff" text-anchor="middle">⊖</text>
+<text x="1105" y="995" font-size="19" fill="#9fe0b8" text-anchor="middle" font-weight="bold">Solar panel</text>
+<text x="1068" y="886" font-size="16" fill="#e02020" font-weight="bold" text-anchor="end">red (+)</text>
+<text x="1178" y="886" font-size="16" fill="#7b4a23" font-weight="bold" text-anchor="end" dx="0" dy="-22">brown (−)</text>
+<text x="300" y="896" font-size="18" font-weight="bold">Connections</text>
+<rect x="300" y="908" width="36" height="8" rx="4" fill="#d62828"/>
+<text x="348" y="918" font-size="17">ESP32 3V3 → INA219 Vcc</text>
+<rect x="300" y="940" width="36" height="8" rx="4" fill="#111"/>
+<text x="348" y="950" font-size="17">ESP32 GND → INA219 Gnd</text>
+<rect x="300" y="972" width="36" height="8" rx="4" fill="#e6a700"/>
+<text x="348" y="982" font-size="17">ESP32 D22 → INA219 Scl</text>
+<rect x="300" y="1004" width="36" height="8" rx="4" fill="#1f6fd1"/>
+<text x="348" y="1014" font-size="17">ESP32 D21 → INA219 Sda</text>
+<rect x="300" y="1036" width="36" height="8" rx="4" fill="#e02020"/>
+<text x="348" y="1046" font-size="17">Panel ⊕ (red) → Vin+ column</text>
+<rect x="300" y="1068" width="36" height="8" rx="4" fill="#2b8a8a"/>
+<text x="348" y="1078" font-size="17">Resistor: Vin− column ↔ Gnd column</text>
+<rect x="300" y="1100" width="36" height="8" rx="4" fill="#7b4a23"/>
+<text x="348" y="1110" font-size="17">Panel ⊖ (brown) → Gnd column</text>
+<text x="40" y="1160" font-size="14" fill="#777">ESP32 drawn off the breadboard for clarity; it sits on the breadboard too. Your column numbers may differ.</text>
+</svg>

@@ -1,0 +1,28 @@
+# Dependencies and build output
+node_modules/
+target/
+.next/
+.anchor/
+test-ledger/
+__pycache__/
+*.tsbuildinfo
+
+# Secrets and local state
+.env
+.env.*
+!.env.example
+.keys/
+*.sqlite*
+secrets.h
+.vercel/
+.run/
+
+# Not part of the code repository
+.brand-preview/
+brand.md
+media/
+demo/
+formatted/
+*.pdf
+chatgpt_transcript.md
+.vscode/

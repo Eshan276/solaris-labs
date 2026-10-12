@@ -1,0 +1,20 @@
+skip_local_validator = true
+
+[toolchain]
+
+[features]
+resolution = true
+skip-lint = false
+
+[programs.localnet]
+solaris_labs_program = "CgsfxU8Lv5iXXSHmt5NbNEurxXhVqwsQ9UJHjBCp9iQC"
+solaris_v2 = "CT5Mi74a94AF6W4H2dfUnSC5F8P2gxK3J5jrCNGFMcZa"
+
+[provider]
+cluster = "localnet"
+wallet = "~/.config/solana/id.json"
+
+[scripts]
+test = "cargo test"
+
+[hooks]
